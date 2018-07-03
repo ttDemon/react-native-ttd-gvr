@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/layout-ldrtl-land-v17/back_button.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.40.0/res/layout-ldrtl-land-v17/back_button.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/layout-ldrtl-land-v17/settings_button.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.40.0/res/layout-ldrtl-land-v17/settings_button.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/layout-ldrtl-land-v17/back_button.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.40.0/res/layout-ldrtl-land-v17/back_button.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/layout-ldrtl-land-v17/settings_button.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.40.0/res/layout-ldrtl-land-v17/settings_button.xml"
+    }
+]

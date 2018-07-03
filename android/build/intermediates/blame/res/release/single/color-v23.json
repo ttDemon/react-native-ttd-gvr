@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

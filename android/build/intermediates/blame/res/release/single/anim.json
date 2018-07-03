@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.3/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.3/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.3/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.3/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.3/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.3/res/anim/catalyst_fade_out.xml"
+    }
+]

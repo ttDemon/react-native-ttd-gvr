@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/home/ntq/NTQ/fixbug_classroom/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.40.0/res/values-v19/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 148,
+                        "endColumn": 56,
+                        "endOffset": 204
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/NTQ/syminar-mobile-app/node_modules/mlb-rngvr/android/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.40.0/res/values-v19/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 148,
+                        "endColumn": 56,
+                        "endOffset": 204
+                    }
+                }
+            }
+        ]
+    }
+]
