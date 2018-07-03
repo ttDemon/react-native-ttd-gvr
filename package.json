@@ -1,5 +1,5 @@
 {
-  "name": "react-native-ttd-360-video",
+  "name": "react-native-ttd-gvr",
   "version": "1.0.0",
   "description": "A bridge of react-native with google vr",
   "main": "index.js",
@@ -21,6 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ttDemon/react-native-ttd-360-video"
+    "url": "https://github.com/ttDemon/react-native-ttd-gvr"
   }
 }

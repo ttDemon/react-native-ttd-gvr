@@ -1,19 +1,19 @@
-# react-native-ttd-360-video
+# react-native-ttd-gvr
 
 ## Getting started
 
-`$ npm install react-native-ttd-360-video --save`
+`$ npm install react-native-ttd-gvr --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-ttd-360-video`
+`$ react-native link react-native-ttd-gvr`
 
 ### Manual installation
 
 #### iOS
 
 1.  In XCode, in the project navigator, right click `Libraries` ➜ `Add Files to [your project's name]`
-2.  Go to `node_modules` ➜ `react-native-ttd-360-video` and add `RNGvr.xcodeproj`
+2.  Go to `node_modules` ➜ `react-native-ttd-gvr` and add `RNGvr.xcodeproj`
 3.  In XCode, in the project navigator, select your project. Add `libRNGvr.a` to your project's `Build Phases` ➜ `Link Binary With Libraries`
 4.  Run your project (`Cmd+R`)<
 
@@ -26,19 +26,19 @@
 
 2.  Append the following lines to `android/settings.gradle`:
     ```
-    include ':react-native-ttd-360-video'
-    project(':react-native-ttd-360-video').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-ttd-360-video/android')
+    include ':react-native-ttd-gvr'
+    project(':react-native-ttd-gvr').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-ttd-gvr/android')
     ```
 3.  Insert the following lines inside the dependencies block in `android/app/build.gradle`:
     ```
-      compile project(':react-native-ttd-360-video')
+      compile project(':react-native-ttd-gvr')
     ```
 
 ## Setup
 
 #### iOS
 
-- Copy `./node_modules/react-native-ttd-360-video/pod_post_install.sh` to ios folder
+- Copy `./node_modules/react-native-ttd-gvr/pod_post_install.sh` to ios folder
 
 - Create a **Podfile** in ios folder
 
@@ -64,7 +64,7 @@ pod update
 ## Usage
 
 ```javascript
-import { VideoView } from 'react-native-ttd-360-video'
+import { VideoView } from 'react-native-ttd-gvr'
 
 <VideoView
   style={{ height: 300, width: 200 }}
